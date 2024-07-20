@@ -1,0 +1,10 @@
+django
+pillow
+
+celery
+redis
+eventlet
+
+pymysql
+
+qiniu
